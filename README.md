@@ -4,7 +4,7 @@
 
 Add tracks in img.
 
-![img](https://github.com/deyiwang89/pytorch-yoloX-deepsort/blob/main/img/result.png)
+![img](https://github.com/deyiwang89/pytorch-yoloX-deepsort/blob/master/output/results%2000_00_00-00_00_30.gif)
 
 - Version 1.0
 The source code of deep sort is from [Deep Sort](https://github.com/ZQPei/deep_sort_pytorch) and the source code of Yolo-v4-pytorch is from [YoloX-pytorch](https://github.com/bubbliiiing/yolox-pytorch). You could download corresponding pre-trained weights from the original project pages. 
